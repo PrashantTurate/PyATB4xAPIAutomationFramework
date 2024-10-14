@@ -2,6 +2,6 @@ import pytest
 import allure
 
 
-@allure.title("Smaple Testcase")
+@allure.title("sample Testcase")
 def test_sample():
     assert True == True
